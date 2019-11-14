@@ -21,7 +21,7 @@ import Ftob_1 from './components_ftb/Ftob_1';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import { HashRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 function App() {
   return (

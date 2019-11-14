@@ -11,7 +11,7 @@ class Contacts extends Component {
 	// 		contacts: [
 	// 			{
 	// 				id: 1,
-	// 				name: 'John Doe',
+	// 				name: 'Xin May',
 	// 				email: 'jdoe@gmail.com',
 	// 				phone: '555-555-5555s'
 	// 			},

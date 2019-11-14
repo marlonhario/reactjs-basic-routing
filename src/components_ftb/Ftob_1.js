@@ -11,7 +11,7 @@ import Test from './test/Test';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import { HashRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 import { Provider } from './context';
 
